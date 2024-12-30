@@ -1,0 +1,8 @@
+{
+    "/api": {
+      "target": "https://makemayagroup.com",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
+  
